@@ -34,7 +34,7 @@ module.exports = class ScenarioIncident {
   }
 
   getIsOngoing() {
-    return this.start == null;
+    return this.end == null;
   }
 
   getStageId() {
