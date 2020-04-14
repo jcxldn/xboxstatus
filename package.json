@@ -1,6 +1,6 @@
 {
   "name": "xboxstatus",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A nodejs library for the Xbox Live Service Status v5 API.",
   "main": "src/classes/XboxStatus.js",
   "scripts": {
