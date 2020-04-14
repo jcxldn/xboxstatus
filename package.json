@@ -1,0 +1,30 @@
+{
+  "name": "xboxstatus",
+  "version": "0.0.1",
+  "description": "A nodejs library for the Xbox Live Service Status v5 API.",
+  "main": "src/classes/XboxStatus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prouser123/xboxstatus.git"
+  },
+  "keywords": [
+    "xbox",
+    "xbox-live",
+    "xboxlive",
+    "status",
+    "xboxlive-status",
+    "xboxlive-service-status"
+  ],
+  "author": "James Cahill <npm@jcx.ovh>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Prouser123/xboxstatus/issues"
+  },
+  "homepage": "https://github.com/Prouser123/xboxstatus#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
